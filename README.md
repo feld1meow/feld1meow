@@ -27,7 +27,7 @@
   <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black" />
   <img alt="llama.cpp" src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="AI agents" src="https://img.shields.io/badge/-AI_Agents-FF6164?style=flat-square&logo=agentskills&logoColor=white" />
+  <img alt="AI agents" src="https://img.shields.io/badge/-AI_Agents-FF6164?style=flat-square&logo=agentskills&logoColor=black" />
 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F03C2E?style=flat-square&logo=git&logoColor=white" />
