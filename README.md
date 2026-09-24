@@ -65,11 +65,11 @@
   <sub>Ensuring the security of critical public web resources</sub>  
   <sub>`Go` `Workflow Automation` `GitOps` `PT AF PRO` `Docker` `Kubernetes` `REST API` `WAF + SIEM` `TCP/IP Troubleshooting`</sub>
 
-- **Middle Web Security Analyst** @ **Gazprom Neft DS** _(06.2023 — 11.2024)_  
+- **Middle Web Security Engineer** @ **Gazprom Neft DS** _(06.2023 — 11.2024)_  
   <sub>Ensuring the security of critical public web resources</sub>  
   <sub>`Python` `Git` `SAST` `DAST` `Burp Suite` `PT AF 3`</sub>
 
-- **Infosec Admin Engineer** @ **SPbPU** _(11.2022 — 06.2023)_  
+- **Information System Security Engineer** @ **SPbPU** _(11.2022 — 06.2023)_  
   <sub>External and internal penetration testing</sub>  
   <sub>`Offensive Security` `Nginx` `Proxmox VE` `OpenVAS` `WordPress`</sub>
 
