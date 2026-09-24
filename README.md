@@ -60,7 +60,7 @@
 
 - **Co-Founder** @ **Leibniz Calculus** _(09.2026 — Present)_  
   <sub>Developing a modern, free platform for learning mathematics</sub>  
-  <sub>`Mathematics` `TypeScript` `JavaScript` `Astro` `Marker(Surya)+Qwen` `CSS` `HTML`</sub>
+  <sub>`Mathematics` `TypeScript` `JavaScript` `Astro` `Marker(Surya) + Qwen` `CSS` `HTML`</sub>
 
 - **Web Security Team Lead** @ **Innostage** _(11.2024 — 11.2026)_  
   <sub>Ensuring the security of critical public web resources</sub>  
