@@ -38,6 +38,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Proxmox VE" src="https://img.shields.io/badge/-Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+  <img alt="Bruno" src="https://img.shields.io/badge/-Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black" />
 
   <img alt="Vector" src="https://img.shields.io/badge/-Vector-632CA6?style=flat-square&logo=datadog&logoColor=white" />
   <img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
@@ -63,7 +64,7 @@
 
 - **Web Security Team Lead** @ **Innostage** _(11.2024 — 11.2026)_  
   <sub>Ensuring the security of critical public web resources</sub>  
-  <sub>`Go` `Workflow Automation` `GitOps` `PT AF PRO` `Docker` `Kubernetes` `REST API` `WAF + SIEM` `TCP/IP Troubleshooting`</sub>
+  <sub>`Go` `Workflow Automation` `GitOps` `PT AF PRO` `Docker` `Kubernetes` `REST API` `Bruno` `WAF + SIEM` `TCP/IP Troubleshooting`</sub>
 
 - **Middle Web Security Engineer** @ **Gazprom Neft DS** _(06.2023 — 11.2024)_  
   <sub>Ensuring the security of critical public web resources</sub>  
