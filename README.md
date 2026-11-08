@@ -1,4 +1,4 @@
-<h3 align="center">Co-Founder at Leibniz Calculus</h3>
+<h3 align="center">Founder at Leibniz Calculus</h3>
 
 <p align="center">
   <a href="https://leibnizcalculus.ru">leibnizcalculus.ru</a> <span>📍 Moscow, Russia</span>
