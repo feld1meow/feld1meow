@@ -58,7 +58,7 @@
 <details>
 <summary><h4>Experience</h4></summary>
 
-- **Co-Founder** @ **Leibniz Calculus** _(09.2026 — Present)_  
+- **Founder** @ **Leibniz Calculus** _(09.2026 — Present)_  
   <sub>Developing a modern, free platform for learning mathematics</sub>  
   <sub>`Mathematics` `TypeScript` `JavaScript` `Astro` `Marker(Surya) + Qwen` `CSS` `HTML`</sub>
 
