@@ -1,7 +1,7 @@
 <h3 align="center">Founder of Leibniz Calculus</h3>
 
 <p align="center">
-  <a href="https://leibnizcalculus.ru">leibnizcalculus.ru</a> <span>📍 Moscow, Russia</span>
+  <a href="https://leibnizcalculus.ru">leibnizcalculus.ru</a>
 </p>
 
 <p align="center">
